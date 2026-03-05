@@ -1,6 +1,5 @@
 # XiaozhouAI
 小粥AI写作-专家级AI写作助手
-<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
